@@ -1,0 +1,10 @@
+langchain
+langchain-google-genai 
+sentence_transformers==2.2.2 
+langchain-community 
+faiss-cpu 
+streamlit 
+InstructorEmbedding
+libmagic
+unstructured
+tiktoken
